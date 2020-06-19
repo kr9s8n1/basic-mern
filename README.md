@@ -8,3 +8,11 @@
     - Password : `testpassword`
     - Connection String : 
         >```mongodb+srv://mongo-admin:<password>@cluster0-tntjc.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority```
+
+- Setup react app
+
+- Setup backend with
+    - express : lightweight server on node
+    - CORS : cross-origin access
+    - mongoose : connecting node with mongoDB
+    - dotenv : loads env variables from a file
